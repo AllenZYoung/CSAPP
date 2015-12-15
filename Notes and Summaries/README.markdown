@@ -1,5 +1,5 @@
 # About 
-These are my notes and summaries for each chapter, if the text content is too long, it'll be divided into several parts. I use [SM.MS](http://sm.ms) as the gallery for some neccessary and important images to illustrate all articles. 
+These are my notes and summaries for each chapter, if the text content is too long, it'll be divided into several parts. I use [SM.MS](http://sm.ms) as the gallery for some neccessary and important images to illustrate articles. 
 
 
 All content is for reference only. 
