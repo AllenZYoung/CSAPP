@@ -7,3 +7,6 @@ Welcome to
 <body><a href="mailto:allenzyoungazy@gmail.com">discuss</a>
 </body> if any mistake found. 
 
+Contents:
+- [Chapter 1](https://github.com/AllenZYoung/CSAPP/tree/master/Notes%20and%20Summaries/Ch1)
+
