@@ -5,7 +5,7 @@ notation is natural for ten-fingered humans, but binary values work better when
 building machines that store and process information. Two-valued signals can
 readily be represented, stored, and transmitted.
 
-In this chapter we consider the three most important  representations of numbers.
+In this chapter we consider the three most important  representations of numbers. 
 
  - **Unsigned**: representing numbers greater
 than or equal to 0.
@@ -18,5 +18,7 @@ Some significant and interesting practice problems will be added to the notes, s
 > "The examples will give you an intuition
 > behind the ideas, and the practice problems engage you in active learning, helping you put thoughts
 > into action. With these as background, you will find it much easier to go back and follow the derivations".
+
+P.S. Please note that I will no longer use italics in this Chapter.
 
 
