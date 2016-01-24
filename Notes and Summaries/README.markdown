@@ -11,3 +11,5 @@ Contents:
 - [Chapter 1](https://github.com/AllenZYoung/CSAPP/tree/master/Notes%20and%20Summaries/Ch1)
 - [Chapter 2](https://github.com/AllenZYoung/CSAPP/tree/master/Notes%20and%20Summaries/Ch2)
 
+
+*My comments will be in Italics.*
