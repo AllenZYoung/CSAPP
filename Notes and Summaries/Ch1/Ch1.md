@@ -80,6 +80,7 @@ including disks, keyboards, displays, and even networks, is modeled as a file.
 ## 1.8 Systems Communicate with Other Systems Using Networks
 ## 1.9 Important Themes.
 - [Concurrency](https://en.wikipedia.org/wiki/Concurrency_(computer_science)) and [Parallelism](https://en.wikipedia.org/wiki/Parallel_computing).
+*It is difficult to fully grasp the two concepts，but it's worth it.*
 - Abstractions in Computer Systems.
 ![fig-1.18.png](https://ooo.0o0.ooo/2015/12/17/56736806de54c.png)
 
