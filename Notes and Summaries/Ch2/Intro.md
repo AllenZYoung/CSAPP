@@ -19,6 +19,7 @@ Some significant and interesting practice problems will be added to the notes, s
 > behind the ideas, and the practice problems engage you in active learning, helping you put thoughts
 > into action. With these as background, you will find it much easier to go back and follow the derivations".
 
-P.S. Please note that the sentences in note files are not only from the book, I will add my own comprehensions and thoughts.
+*P.S. Please note that the sentences in note files are not only from the book, I will add my own comprehensions and thoughts.*<br>
+*This chapter is a little odd because of a lot of math formulas, but once you understand and remember them, you will find it's awesome.(Yep, I mean "amazing and cool"!)*
 
 
