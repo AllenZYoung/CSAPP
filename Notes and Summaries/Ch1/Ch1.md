@@ -3,8 +3,8 @@ This chapter introduces the major
 ideas and themes in computer systems by tracing the life cycle of a simple
 “hello, world” program.
 
-Since chapter 1 is just a brief introduction to some vital concepts in this book, my summary is 
-brief, too.
+*Since chapter 1 is just a brief introduction to some vital concepts in this book, my summary is 
+brief, too. In fact, this chapter looks like a map for you to take a trip in the book. Enjoy it~*
 
 ## 1.1 Information Is Bits + Context
 <br>
@@ -15,8 +15,8 @@ might represent different things.
 ## 1.2  Programs Are Translated by Other Programs into Different Forms
 
 Object programs are also referred to as **executable object files**.<br>
-The translation from source file to object file is performed by a ***compiler***.
-<br>chunk
+The translation from source file to object file is performed by a **compiler**.
+<br>
 ![fig1.png](https://ooo.0o0.ooo/2015/12/15/5670b9cdac7f3.png)
 The programs that perform the four phases: 
 **preprocessor, compiler, assembler, and linker**, are known collectively as the
@@ -39,7 +39,7 @@ number of bytes in a word (the *word size*) is a fundamental system parameter th
 varies across systems. Most machines today have word sizes of either **4 bytes (32
 bits) or 8 bytes (64 bits)**.
 ### Main memory
-The *main memory* is a temporary storage device that holds both a program and
+The **main memory** is a temporary storage device that holds both a program and
 the data it manipulates while the processor is executing the program. Physically,
 main memory consists of a collection of *dynamic random access memory* (**DRAM**)
 chips.
