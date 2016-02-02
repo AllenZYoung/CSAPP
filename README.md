@@ -18,4 +18,3 @@ To get answers and solutions for homeworks, there's [an excellent repository](ht
 
 Dec 14, 2015  A.Z.Young
 
-*I may restart the Notes Updation in March...*
